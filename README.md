@@ -40,7 +40,9 @@ The system compares predicted demand and simulated revenue for each scenario.
 The project includes a **Streamlit-based Dynamic Pricing Intelligence Assistant** that allows users to interact with the system using natural-language questions.
 ## 🚀 Live Demo
 
-👉 [Try the Live Application](https://dynamic-pricing-intelligence-system-nhm5okrdyxmfmkscrymixc.streamlit.app/)
+📊 **Dashboard:** [View Live Dashboard](https://dynamic-pricing-intelligence-system-rpievthr7mbnsydccfpgzg.streamlit.app/)
+
+💬 **Chatbot:** [View Live Chatbot](https://dynamic-pricing-intelligence-system-nhm5okrdyxmfmkscrymixc.streamlit.app/)
 
 Users can ask questions such as:
 
